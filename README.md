@@ -1,4 +1,3 @@
-# Data Visualization for Policy Analysis
-## Allison M. Towey
-## CAPP 30239 | Autumn 2022
+# Data Visualization for Policy Analysis CAPP 30239
+## Allison Towey | Autumn 2022
 
