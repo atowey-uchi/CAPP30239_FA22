@@ -1,0 +1,10 @@
+{
+  "name": "my-package",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "lint": "^0.7.0"
+  }
+}
