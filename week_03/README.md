@@ -2,7 +2,7 @@
 # How did the COVID 19 Pandemic Affect How Where We Go, How We Get There, and How This Affects Air Quality and Pollution?
 
 ### Data source 1:
-## Trips By Distance
+### Trips By Distance
 Bureau of Transportation (US Federal Government)
 https://www.bts.gov/daily-travel
 
@@ -15,7 +15,7 @@ Any concerns about the data:
 Identify if source is primary or secondary: Primary
 
 
-Data source 1:
+### Data source 2:
 Trips By Type
 Bureau of Transportation (US Federal Government)
 https://www.bts.gov/daily-travel
