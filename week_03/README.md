@@ -1,8 +1,8 @@
 ## Final Project Topic: 
 # How did the COVID 19 Pandemic Affect How Where We Go, How We Get There, and How This Affects Air Quality and Pollution?
 
-Data source 1:
-Trips By Distance
+### Data source 1:
+## Trips By Distance
 Bureau of Transportation (US Federal Government)
 https://www.bts.gov/daily-travel
 
