@@ -36,7 +36,7 @@ Primary
 ### Data source 2:
 ## Air Quality Trends
 Environmental Protection Agency (US Federal Government)
-https://www.bts.gov/daily-travel
+https://www.epa.gov/air-trends/air-quality-national-summary#air-quality-trends
 
 #### Description: 
 
