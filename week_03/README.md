@@ -1,5 +1,18 @@
-## Final Project Topic: 
-# How did the COVID 19 Pandemic Affect How Where We Go, How We Get There, and How This Affects Air Quality and Pollution?
+# WEEK 3 PROJECT 1: BAR CHART
+
+##  Homework.HTML and Homework.JS form a practice bar chart of Library Visits in January 2022
+
+This code creates a chart comparing for library visits in January 2022 across various library branches in Chicago. 
+
+
+
+
+
+
+---
+# WEEK 3 PROJECT 2: FINAL PROJECT DATA
+
+## Final Project Topic:  How did the COVID 19 Pandemic Affect How Where We Go, How We Get There, and How This Affects Air Quality and Pollution?
 
 ### Data source 1:
 ## Trips By Distance
