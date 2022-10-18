@@ -2,8 +2,10 @@
 
 ##  Homework.HTML and Homework.JS form a practice bar chart of Library Visits in January 2022
 
-This code creates a chart comparing for library visits in January 2022 across various library branches in Chicago. 
-
+This code creates a D3.JS Bar Chart comparing for library visits in January 2022 across various library branches in Chicago. To run this code, both files are necessary. In addition to the bare bones of the chart, it also includes:
+- a Y-axis Title
+- A Chart Title
+- Exact Numbers on the Bars 
 
 
 
