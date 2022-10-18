@@ -7,8 +7,9 @@ This code creates a D3.JS Bar Chart comparing for library visits in January 2022
 - A Chart Title
 - Exact Numbers on the Bars 
 
+The output of this code looks like the following:
 
-
+<img width="1088" alt="Screen Shot 2022-10-17 at 7 48 26 PM" src="https://user-images.githubusercontent.com/89881145/196309750-7d8de6e1-e9de-47cf-a7f8-96778abfed44.png">
 
 
 ---
