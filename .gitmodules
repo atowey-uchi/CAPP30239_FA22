@@ -1,4 +1,4 @@
-[submodule "MySubModuleProject"]
+[submodule "Week 04"]
     path = MySubModuleProject
     url = ../MySubModuleProject
     branch = main
