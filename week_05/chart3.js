@@ -1,9 +1,9 @@
 d3.csv('manner_df.csv').then((data) => {
-    const height = 400,
-      width = 800,
-      innerRadius = 105,
-      outerRadius = 155,
-      labelRadius = 170;
+    const height = 600,
+      width = 600,
+      innerRadius = 135,
+      outerRadius = 235,
+      labelRadius = 270;
   
     const arcs = d3.pie().value(d => d.amount)(data);
     const arc = d3.arc().innerRadius(innerRadius).outerRadius(outerRadius);
@@ -49,7 +49,7 @@ d3.csv('manner_df.csv').then((data) => {
       .attr("text-anchor", "middle")
       .attr("alignment-baseline", "middle")
       .text("Police Killings by Flee Status, 2015")
-      .style("font-size", 11);
+      .style("font-size", 16);
 
 
   });

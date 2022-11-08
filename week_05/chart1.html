@@ -6,87 +6,65 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bar Chart</title>
     <style>
-        h1 {
-            font: 20px helvetica;
-            text-align: center;
-        }
-
-        /* Legend Font Style */
-        body {
-            font: 11px sans-serif;
-            background-color: #ffffff;
-        }
-                
-        /* Legend Position Style */
-        .legend {
-            position:absolute;
-            left:20px;
-            top:30px;
-        }
-
-        .axis text {
-            font: 10px sans-serif;
-        }
-
-        .axis line, .axis path {
-            fill: none;
-            stroke: #000;
-            shape-rendering: crispEdges;
-        }
-        svg {
-            width: 100%;
-            height: 100vh;
-        }
-        text {
-            font-family: Helvetica, sans-serif;
-            font-size: 12px;
-            font-weight: 300;
-        }
         * {
-      font-family: Helvetica, sans-serif;
-      font-weight: 300;
+            font-family: Helvetica;
+            font-weight: 300;
+            font-size: 14px;
+            text-align: center;
+            max-width: 90%;
+            margin: 0 auto;
+            padding: 10px;
         }
-
-        #container {
-        max-width: 800px;
-        margin: 0 auto;
+        div{
+            margin: 0 auto;
+            max-width: 100vh;
+            padding-bottom: 0;
         }
-
-        a { color: #369;}
-
-        svg { width: 100%; }
-
-        text {
-        font-size: 10px;
-        text-transform: uppercase;
+        p {
+            text-align: center;
+            max-width: 570px;
+            margin-top: 0;
         }
-
-        path.domain { display: none; }
-
-        line {
-        stroke: #eee;
-        stroke-dasharray: 1px;
+        h1{
+            font-size: 28px;
+            font-weight: 800;
         }
+        h2{
+            font-size: 20px;
+            font-weight: 500;
+            padding: 0;
+            padding-top: 40px;
 
-        .country { cursor: default; }
-        
-        .country path {
-        stroke-width: 1.5;
-        opacity: 0.75;
         }
-
-        .highlight path {
-        stroke: steelblue;
-        opacity: 1;
+        h3{
+            font-size: 18px;
+            font-style: italic;
         }
-
-        .highlight text { fill: steelblue; }
+        a {
+            font-size: 14px;
+            padding: 0;
+        }
+        #wash {
+            font-size: 18px;
+            font-weight: 500; 
+            padding: 0;
+        }
     </style>
 </head>
 <body>
+    <h1>An Analysis of Killings by Police Officers in the United States, 2015</h1>
+    <h2>In 2015, over 1,500 people were shot and killed by police officers in the US. The following charts seek to understand the demographics and patterns of these killings. Data used in this project comes from <a id='wash' href='link'>The Washington Post</a>.</h2>
+    <h3>Allison Towey, Data Visualization for Public Policy</h3>
     <script src="https://d3js.org/d3.v7.min.js"></script>
+    <h2>Chart 1</h2>
     <div id="chart1"></div>
+    <p>This chart depicts the racial breakdown of those killed by police in 2015. As we can see from the chart, white people were killed the most, followed by Black and Hispanic people. As a note, there are 114 victims whose race is not identified in the data, and thus are not included in this bar chart.<br > <br >I chose a bar chart to tell the story of the racial breakdown of the victims of police shootings because racial demographics is a categorical variable. A bar chart aptly and clearly shows the differences in the amount of victims in each group. Supplementary material that may tell a different story is the racial breakdown of the country as a whole. While it looks like white people are killed more by police, if we control for the racial demographics of the country as a whole, we will likely see that Black people are killed a disproportionately higher number of times in comparison to white people.</p>
+    <h2>Chart 2</h2>
     <div id="chart3"></div>
+    <p>This second chart depicts the amount of victims who were fleeing police versus those who were not. This chart shows that a vast majority of the victims were not fleeing police at the time of their killing. <br ><br >I chose a donut chart for this graph because I wanted to compare a variable with two groups: those who were fleeing and those who were not. I particularly wanted to show how the overwhelming majority were not fleeing at the time of their killing, and a donut chart highlights this disparity clearly. Supplemental information about what constitutes "fleeing" may be necessary in order to understand the whole story for this graph. It may also be interesting to look at the gender and racial connections to see if there are patterns in which people are killed while fleeing versus those who are not.</p>
+    <h2>Chart 3</h2>
+    <p>Due to conflicts with the versioning of D3 for my final chart, please see it <a href="https://atowey-uchi.github.io/CAPP30239_FA22/week_05/chart2.html">here</a>.</p>
+    <p>This third and final chart depicts which states had the highest total number of police shootings in 2015. We can see that California, Texas, and Florida had the highest number of police shootings. Normalizing this data by controlling for the overall population of each state may elucidate different results. Texas, Florida, and California are some of the most highly-populated states in the country. Instead of looking at raw, overall numbers, we could instead look at per-capita rates to see if there are some states that have a disproportionately high or low amount of police killings in comparison to the number of people in the state.</p>
     <script src="chart1.js"></script>
     <script src="chart3.js"></script>
 </body>
