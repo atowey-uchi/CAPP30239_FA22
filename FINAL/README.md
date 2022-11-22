@@ -2,12 +2,15 @@
 
 ## Chart Type 1: Multi-Line Graph
 
-Link:
+Link: https://atowey-uchi.github.io/CAPP30239_FA22/FINAL/Chart%201:%20Multiline/mobility.html 
 
 Screenshot:
 <img width="942" alt="Screen Shot 2022-11-22 at 12 10 25 AM" src="https://user-images.githubusercontent.com/89881145/203239616-f48abf6a-8afc-4eb7-ab6d-48a6894eac19.png">
 
 ## Chart Type 2: Chloropleth
+
+Link: 
+- https://atowey-uchi.github.io/CAPP30239_FA22/FINAL/Chart%202:%20Chloropleth/map.html
 
 Example Screenshots:
 <img width="942" alt="Screen Shot 2022-11-22 at 12 15 01 AM" src="https://user-images.githubusercontent.com/89881145/203239728-d2dfe33e-53f4-4f28-8f17-e2ddfeb22deb.png">
@@ -19,7 +22,7 @@ Example Screenshots:
 
 ## Chart Type 3: Stacked Area Chart
 
-Link:
+Link: https://atowey-uchi.github.io/CAPP30239_FA22/FINAL/Chart%203:%20Area/distance.html
 
 Screenshot:
 <img width="942" alt="Screen Shot 2022-11-22 at 12 11 07 AM" src="https://user-images.githubusercontent.com/89881145/203239664-b4109f2f-2272-4b55-a7f1-725ecc60034d.png">
