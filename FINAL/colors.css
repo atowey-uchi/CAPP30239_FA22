@@ -1,0 +1,15 @@
+:root{
+    /* CSS HEX */
+    --dark-spring-green: #337342ff;
+    --citrine: #e6d73bff;
+    --english-violet: #5d3f67ff;
+    --blue-yonder: #4f779fff;
+    --terra-cotta: #e26d5cff;
+
+    /* CSS HSL */
+    --dark-spring-green: hsla(134, 39%, 33%, 1);
+    --citrine: hsla(55, 77%, 57%, 1);
+    --english-violet: hsla(285, 24%, 33%, 1);
+    --blue-yonder: hsla(210, 34%, 47%, 1);
+    --terra-cotta: hsla(8, 70%, 62%, 1);
+}
