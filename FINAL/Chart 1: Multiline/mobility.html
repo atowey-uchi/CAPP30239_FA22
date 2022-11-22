@@ -12,6 +12,11 @@
   stroke-width: 1.5px;
 }
 
+body {
+  font: 10px Helvetica, sans-serif;
+  font-weight: 300;
+}
+
 </style>
 <svg width="960" height="600"></svg>
 <script src="//d3js.org/d3.v4.min.js"></script>
@@ -22,7 +27,7 @@
 
 // Variables
 var svg = d3.select("svg"),
-    margin = {top: 20, right: 80, bottom: 30, left: 50},
+    margin = {top: 60, right: 80, bottom: 30, left: 50},
     width = svg.attr("width") - margin.left - margin.right,
     height = svg.attr("height") - margin.top - margin.bottom;
 
@@ -48,7 +53,7 @@ var line = d3.line()
 
 // TSV AJAX call
 // type function does the data pre-processing
-d3.csv("type-touse.csv", type, function(error, data) {
+d3.csv("mobility_data.csv", type, function(error, data) {
   if (error) throw error;
 
   // Construct new data structure
@@ -96,6 +101,14 @@ d3.csv("type-touse.csv", type, function(error, data) {
   g.append("g")
       .attr("class", "axis axis--y")
       .call(d3.axisLeft(y))
+  
+  g.append("text")
+      .attr("x", (width / 2))             
+      .attr("y", 0 - (margin.top / 2))
+      .attr("text-anchor", "middle")  
+      .style("font-size", "20px") 
+      .text("Passengers in Modes of Transportation (Percent from Baseline)");
+
 
   let line = d3.line()
     .x(d => x(d.date))
