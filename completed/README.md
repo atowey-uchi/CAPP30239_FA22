@@ -1,28 +1,13 @@
-# Final Project Graphs
+# COVID-19 AND TRANSPORTATION: How the Pandemic Affected Where We Went and How We Got There
 
-## Chart Type 1: Multi-Line Graph
+## HTML/CSS Files
 
-Link: https://atowey-uchi.github.io/CAPP30239_FA22/FINAL/Chart%201:%20Multiline/mobility.html 
+-https://github.com/atowey-uchi/CAPP30239_FA22/blob/main/completed/index.html
 
-Screenshot:
-<img width="942" alt="Screen Shot 2022-11-22 at 12 10 25 AM" src="https://user-images.githubusercontent.com/89881145/203239616-f48abf6a-8afc-4eb7-ab6d-48a6894eac19.png">
+## JavaScript Files
 
-## Chart Type 2: Chloropleth
+## data Folder
 
-Link: 
-- https://atowey-uchi.github.io/CAPP30239_FA22/FINAL/Chart%202:%20Chloropleth/map.html
+## img Folder
 
-Example Screenshots:
-<img width="942" alt="Screen Shot 2022-11-22 at 12 15 01 AM" src="https://user-images.githubusercontent.com/89881145/203239728-d2dfe33e-53f4-4f28-8f17-e2ddfeb22deb.png">
-<img width="942" alt="Screen Shot 2022-11-22 at 12 14 50 AM" src="https://user-images.githubusercontent.com/89881145/203239729-d7d4781c-9c0d-49fd-a86e-4080554a305b.png">
-<img width="942" alt="Screen Shot 2022-11-22 at 12 14 39 AM" src="https://user-images.githubusercontent.com/89881145/203239731-da1a22f9-1e50-4f2d-b19a-998b56df5a73.png">
-<img width="942" alt="Screen Shot 2022-11-22 at 12 13 59 AM" src="https://user-images.githubusercontent.com/89881145/203239734-27e13ec6-4e05-4174-ab18-44f79c4ec0df.png">
-<img width="942" alt="Screen Shot 2022-11-22 at 12 13 37 AM" src="https://user-images.githubusercontent.com/89881145/203239738-ae3d7fb7-1f6e-4f79-bf6b-75a10b33e612.png">
-
-
-## Chart Type 3: Stacked Area Chart
-
-Link: https://atowey-uchi.github.io/CAPP30239_FA22/FINAL/Chart%203:%20Area/distance.html
-
-Screenshot:
-<img width="942" alt="Screen Shot 2022-11-22 at 12 11 07 AM" src="https://user-images.githubusercontent.com/89881145/203239664-b4109f2f-2272-4b55-a7f1-725ecc60034d.png">
+## libs Folder
