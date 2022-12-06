@@ -2,7 +2,7 @@
 
 ## HTML/CSS Files
 
--https://github.com/atowey-uchi/CAPP30239_FA22/blob/main/completed/index.html
+- [index.html](https://github.com/atowey-uchi/CAPP30239_FA22/blob/main/completed/index.html)
 
 ## JavaScript Files
 
