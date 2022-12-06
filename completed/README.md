@@ -21,5 +21,5 @@
 -img files for photos in HTML code
 
 ## libs Folder
--[county albers json](https://github.com/atowey-uchi/CAPP30239_FA22/blob/main/completed/libs/counties-albers-10m.json): projection data for maps
--[d3 color legend](https://github.com/atowey-uchi/CAPP30239_FA22/blob/main/completed/libs/d3-color-legend.js): d3 color legend library
+- [county albers json](https://github.com/atowey-uchi/CAPP30239_FA22/blob/main/completed/libs/counties-albers-10m.json): projection data for maps
+- [d3 color legend](https://github.com/atowey-uchi/CAPP30239_FA22/blob/main/completed/libs/d3-color-legend.js): d3 color legend library
