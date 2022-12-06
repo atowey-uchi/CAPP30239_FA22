@@ -1,5 +1,7 @@
 # COVID-19 AND TRANSPORTATION: How the Pandemic Affected Where We Went and How We Got There
 
+## Link to Project: https://atowey-uchi.github.io/CAPP30239_FA22/completed/
+
 ## HTML/CSS Files
 
 - [index.html](https://github.com/atowey-uchi/CAPP30239_FA22/blob/main/completed/index.html): Main Index HTML File containing full HTML code and all CSS styles.
