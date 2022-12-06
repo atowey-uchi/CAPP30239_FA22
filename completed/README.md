@@ -15,10 +15,14 @@
 - [d3.v3.js](https://github.com/atowey-uchi/CAPP30239_FA22/blob/main/completed/d3.v3.js): D3 Version3 JS (for use in chart3.js)
 
 ## data Folder
--data files for charts
+- [map_data](https://github.com/atowey-uchi/CAPP30239_FA22/tree/main/completed/data/map_data): monthly data files for chloropleth maps
+- [new_distance](https://github.com/atowey-uchi/CAPP30239_FA22/blob/main/completed/data/new_distance.csv): distance data for stacked area chart
+- [state](https://github.com/atowey-uchi/CAPP30239_FA22/blob/main/completed/data/state.tsv): state data for interactive multi-line chart
+- [trips](https://github.com/atowey-uchi/CAPP30239_FA22/blob/main/completed/data/trips.csv): data for line chart and stacked area chart
+- [types](https://github.com/atowey-uchi/CAPP30239_FA22/blob/main/completed/data/types.csv): data for multi-line transportation types chart
 
 ## img Folder
--img files for photos in HTML code
+-img files for photos in HTML code (bus.jpeg, nyc.jpeg)
 
 ## libs Folder
 - [county albers json](https://github.com/atowey-uchi/CAPP30239_FA22/blob/main/completed/libs/counties-albers-10m.json): projection data for maps
