@@ -1,10 +1,10 @@
 # COVID-19 AND TRANSPORTATION: How the Pandemic Affected Where We Went and How We Got There
 
-Allison Towey
+### Allison Towey
 
-The University of Chicago
+#### The University of Chicago
 
-CAPP 30239 Final Project Autumn 2022
+#### CAPP 30239 Final Project Autumn 2022
 
 ## Link to Project: https://atowey-uchi.github.io/CAPP30239_FA22/completed/
 
