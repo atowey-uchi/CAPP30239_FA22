@@ -22,7 +22,8 @@
 - [types](https://github.com/atowey-uchi/CAPP30239_FA22/blob/main/completed/data/types.csv): data for multi-line transportation types chart
 
 ## img Folder
--img files for photos in HTML code (bus.jpeg, nyc.jpeg)
+- [bus.jpeg](https://github.com/atowey-uchi/CAPP30239_FA22/blob/main/completed/img/bus.jpeg): picture of bus drivers
+- [nyc.jpeg](https://github.com/atowey-uchi/CAPP30239_FA22/blob/main/completed/img/nyc.jpeg): picture of times square
 
 ## libs Folder
 - [county albers json](https://github.com/atowey-uchi/CAPP30239_FA22/blob/main/completed/libs/counties-albers-10m.json): projection data for maps
